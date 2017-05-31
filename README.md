@@ -67,6 +67,9 @@ Want your icon pack listed here? Mention me at [Google Plus](https://plus.google
 * [Dimitrix](https://play.google.com/store/apps/details?id=com.darin.dimitrix)
 * [Cikukua](https://play.google.com/store/apps/details?id=com.setio.budi.cikukua.icons)
 
+Join us on G+
+* [CandyBar Material Dashboard Community] (https://plus.google.com/communities/113391514858983102172)
+
 # License
 ```
 Copyright (c) 2014-2016 Dani Mahardhika
